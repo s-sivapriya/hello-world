@@ -1,3 +1,3 @@
 # hello-world
-<http backcolor = 'red'> New File
+<http> <font red> New File </font>
 </http>
